@@ -1,0 +1,11 @@
+These videos helped me conceptually understand how ellipse drawing algorithms work.
+       I. https://youtu.be/SikGiucdAr0
+       II. https://youtu.be/b3keFO-6F3Y
+
+These websites helped me understand how to implement ellipse drawing algorithms, such as the midpoint algorithm and visualize the given ellipse.
+       I. https://www.geeksforgeeks.org/midpoint-ellipse-drawing-algorithm/
+       II. https://www.desmos.com/calculator
+       III. https://stackoverflow.com
+
+This book helped me break the problem down into steps, allowing me to understand the purpose of each function/loop used in the algorithm.
+       I. Computer Graphics Principles and Practice -Foley et. al pg. 72 - 87
