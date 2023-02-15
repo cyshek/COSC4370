@@ -84,20 +84,3 @@ int main(){
   newObj.write("output.bmp");
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
