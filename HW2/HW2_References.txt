@@ -1,0 +1,13 @@
+These videos helped me understand how to draw shapes in OpenGL.
+       I. https://youtu.be/sHu2QkUO5ns
+       II. https://youtu.be/hYZNN0MTLuc
+       III. https://youtu.be/M4-MolrHrzk
+
+These websites helped me understand how to implement functions in OpenGL that draw teapots, cubes, and other shapes/figures.
+       I. https://open.gl/drawing
+       II. https://www.codemiles.com/c-opengl-examples/drawing-teapot-using-opengl-t9010.html
+       III. https://stackoverflow.com
+       IV. https://github.com/slaviboy/OpenGL
+
+This book helped me break the problem down into steps, allowing me to understand the purpose of each function/loop used.
+       I. Computer Graphics Principles and Practice -Foley
