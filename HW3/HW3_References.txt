@@ -1,0 +1,11 @@
+This video helped me understand how shading works in OpenGL.
+       I. https://youtu.be/SXC4dbW4Vp8
+
+These websites helped me understand how to implement the Phong shading model in OpenGL.
+       I. https://open.gl/drawing
+       II. https://https://learnopengl.com/Getting-started/Camera
+       III. https://stackoverflow.com
+       IV. https://github.com/slaviboy/OpenGL
+
+This book helped me break the problem down into steps, allowing me to understand the purpose of each function/loop used.
+       I. Computer Graphics Principles and Practice -Foley
