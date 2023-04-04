@@ -1,0 +1,11 @@
+This video helped me understand how texture mapping works in OpenGL.
+       I. https://youtu.be/n8t7nvHCqek
+
+These websites helped me understand how to implement texture mapping in OpenGL.
+       I. http://www.opengl-tutorial.org/beginners-tutorials/tutorial-5-a-textured-cube/
+       II. https://https://learnopengl.com/Getting-started/Camera
+       III. https://stackoverflow.com
+       IV. https://learnopengl.com/Getting-started/Textures
+
+This book helped me break the problem down into steps, allowing me to understand the purpose of each function/loop used.
+       I. Computer Graphics Principles and Practice -Foley
